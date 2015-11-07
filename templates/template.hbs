@@ -1,0 +1,42 @@
+<div class="cat">
+	{{#each cat_brands}}
+		<div class="row">
+		<div class="col-md-3"><h4>{{name}}</h4></div>
+	
+		<div class="col-md-9">
+			{{#each types}}
+				<div>{{type}}</div>
+					{{#each volumes}}
+					<div>{{name}}:  ${{price}}</div>
+					{{/each}}
+			{{/each}}
+		</div>
+
+	</div>
+	{{/each}}
+</div>
+<div class="dog">
+	{{#each dog_brands}}
+		<div class="row">
+		<div class="col-md-3"><h4>{{name}}</h4></div>
+	
+		<div class="col-md-9">
+			{{#each types}}
+				<div>{{type}}</div>
+					{{#each volumes}}
+					<div>{{name}}: ${{price}}</div>
+					{{/each}}
+			{{/each}}
+		</div>
+	</div>
+	
+	{{/each}}
+
+
+</div>
+	
+
+
+
+
+
