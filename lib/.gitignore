@@ -4,6 +4,4 @@ demo-build/*
 .idea/
 *.iml
 bower_components
-bower.json
-package.json
 
