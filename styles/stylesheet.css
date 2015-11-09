@@ -2,3 +2,12 @@ body {
 	padding-top: 70px; 
 }
 
+.hide {
+	visibility: none;
+}
+
+.about {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}

@@ -4,7 +4,7 @@
       "name": "Whiskers",
       "types": [
         {
-          "type": "all_natural",
+          "type": "All Natural",
           "volumes": [
             {
               "name": "32oz",
@@ -17,7 +17,7 @@
           ]
         },
         {
-          "type": "standard",
+          "type": "Original",
           "volumes": [
             {
               "name": "58oz",
@@ -35,7 +35,7 @@
       "name": "Purrina",
       "types": [
         {
-          "type": "kitten",
+          "type": "Kitten",
           "volumes": [
             {
               "name": "16oz",
@@ -48,7 +48,7 @@
           ]
         },
         {
-          "type": "standard",
+          "type": "Original",
           "volumes": [
             {
               "name": "58oz",
